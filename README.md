@@ -1,7 +1,7 @@
-#CollegeManagement
-  #Mahaveera|Portal
+# College Management
+  # Mahaveera|Portal
 https://github.com/srujanshettythor/CollegeManagement/assets/145478672/ad1a8752-0dfa-40fd-863a-a9185eb10819
-#Admin
+# Admin
   1.Login
     ![image](https://github.com/srujanshettythor/CollegeManagement/assets/145478672/6059c0ee-55f8-4639-b7cf-69ae08a4f448)
 
@@ -28,13 +28,13 @@ https://github.com/srujanshettythor/CollegeManagement/assets/145478672/ad1a8752-
 2.7 Announcements
 ![image](https://github.com/srujanshettythor/CollegeManagement/assets/145478672/45f5f50f-04a7-43f8-8e45-8bb18a06650a)
 
-#Staff
+# Staff
 1)Dashboard
 ![image](https://github.com/srujanshettythor/CollegeManagement/assets/145478672/dc180571-c912-47a3-8e3d-f85e26809dea)
 2)Subjects
 ![image](https://github.com/srujanshettythor/CollegeManagement/assets/145478672/ba62e0a1-cfef-4d60-84bb-21aa92423aea)
 
-#Students
+# Students
 1)Student|Portal
 https://github.com/srujanshettythor/CollegeManagement/assets/145478672/ebad96d6-5c76-4def-bd7e-30d52a0bb24f
 2)Profile
